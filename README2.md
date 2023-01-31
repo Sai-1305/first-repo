@@ -16,4 +16,4 @@ The top three players of my favorite, team India are:
 
 
 
-You might know me already. If not, click [here](https://github.com/Sai-1305/assignment2-Inavolu/blob/e13f6ee1320cdece8b9f17397cbfcf69fe56024c/Sai.png) for my image
+Click [here](https://github.com/Sai-1305/assignment2-Inavolu/blob/e13f6ee1320cdece8b9f17397cbfcf69fe56024c/Sai.png) for my image
